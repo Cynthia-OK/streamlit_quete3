@@ -1,0 +1,8 @@
+name;password;email;failed_login_attemps;logged_in;role
+utilisateur;utilisateurMDP;utilisateur@gmail.com;0;0;utilisateur
+utilisateur1;utilisateurMDP1;utilisateur1@gmail.com;0;0;utilisateur
+utilisateur2;utilisateurMDP2;utilisateur2@gmail.com;0;0;utilisateur
+utilisateur3;utilisateurMDP3;utilisateur3@gmail.com;0;0;utilisateur
+utilisateur4;utilisateurMDP4;utilisateur4@gmail.com;0;0;utilisateur
+root;rootMDP;admin@gmail.com;0;0;administrateur
+cynthia;cynthia;cynthia@gmail.com;0;0;utilisateur
